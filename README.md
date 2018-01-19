@@ -23,7 +23,7 @@ Old school project to create a PID controller for temperature control running a 
 
 - USART
     - Keyboard controls for the USART communication:
-    ![USART](/img/USART.jpg)
+    ![USART](/img/USART.png)
 
 
 - Hardware Setup:
